@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>American Sign Language (ASL) Recognition</title>
-</head>
-<body>
 
 <h1>American Sign Language Recognition</h1>
 
